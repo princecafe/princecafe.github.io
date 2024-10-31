@@ -1,16 +1,29 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A Junior Apprentice Alchemist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Ziyang WANG 王紫洋
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Basic Information
 
-What else do you need?
+- Email:w18942071329@outlook.com
+- Github:[princecafe](https://github.com/princecafe)
 
-### My story
+### Education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**South China University of Technology** 2025.7-
+
+- Waiting for Enrollment
+- Master Degree
+- School of Software Engineering
+
+**South China University of Technology** 2021.9-2025.7
+
+- Bachelor Degree
+- School of Software Engineering
+
+### Research Directions
+
+- Image Restoration
